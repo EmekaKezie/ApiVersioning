@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Bif0a6902FKvSvn6pY0lonbdQiL65kFfsxgVxnigBGlmT3NPV59WMEdIHgocCQBnQC7ii/RkeD337aS/3Ns4+g==",
+  "dgSpecHash": "k8uvYvkQqwuWx1BlM1oTZC7kI+w4ImVGeYN94X78670B52jWBuNkm7dGPt69Hrth3/qBz+pLIrBZ1XFZMLOfQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\emeka\\source\\repos\\ApiVersioning\\ApiVersioning\\ApiVersioning.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emeka\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.2.0\\microsoft.aspnetcore.mvc.versioning.4.2.0.nupkg.sha512",
     "C:\\Users\\emeka\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\emeka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\emeka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",

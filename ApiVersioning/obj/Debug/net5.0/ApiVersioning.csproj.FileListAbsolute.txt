@@ -27,3 +27,4 @@ C:\Users\emeka\source\repos\ApiVersioning\ApiVersioning\obj\Debug\net5.0\ApiVers
 C:\Users\emeka\source\repos\ApiVersioning\ApiVersioning\obj\Debug\net5.0\ref\ApiVersioning.dll
 C:\Users\emeka\source\repos\ApiVersioning\ApiVersioning\obj\Debug\net5.0\ApiVersioning.pdb
 C:\Users\emeka\source\repos\ApiVersioning\ApiVersioning\obj\Debug\net5.0\ApiVersioning.genruntimeconfig.cache
+C:\Users\emeka\source\repos\ApiVersioning\ApiVersioning\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll

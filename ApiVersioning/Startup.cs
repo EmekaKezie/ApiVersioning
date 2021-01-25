@@ -27,10 +27,16 @@ namespace ApiVersioning
         {
 
             services.AddControllers();
+            services.AddApiVersioning(options => {
+                options.AssumeDefaultVersionWhenUnspecified = true;
+                //options.DefaultApiVersion = new ApiVersion(1, 0);
+                options.DefaultApiVersion = ApiVersion.Default; //default is automatically 1.0
+            });
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ApiVersioning", Version = "v1" });
             });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
